@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ateliers</title>
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
+    <link rel="stylesheet" href="../assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="../assets/css/Article-Clean.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/ateliers.css">
+<link href="https://fonts.googleapis.com/css?family=Baloo+Da|Indie+Flower" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Marck+Script|Niconne" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cormorant+Upright" rel="stylesheet">
+</head>
+
+<body>
+
+  <header>
+          <div class="container">
+              <div class="navbar-header"><a class="navbar-brand navbar-link" href="../index.html"><i class="glyphicon glyphicon-leaf"></i><span class="text-title">Esthéticienne LUNEL</span></a>
+
+
+          </div>
+        </div>
+
+  </header>
+  <nav>
+  <ul class="nav nav-pills menu">
+      <li><a class="js-scrollTo" href="../index.html">Mes prestations</a></li>
+      <li class="active"><a class="js-scrollTo" href="#ateliers">Les ateliers</a></li>
+      <li><a class="js-scrollTo" href="./blog.html">Blog</a></li>
+      <li><a class="js-scrollTo" href="#contact">Contact </a></li>
+
+  </ul>
+</nav>
+
+    <div id="ateliers" class="article-clean">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="intro">
+                        <h1 class="text-center titreAteliers">Ateliers de groupe</h1>
+
+                    </div>
+                    <div class="text">
+                        <h3>Naturels et bio</h3>
+                        <p class="descriptionAteliers">Apprenez à confectionner vous-même vos produits cosmétiques
+                          (démaquillants, gommages, masques, crème hydratantes…) sans substances toxiques,
+                          respectueuse de l’environnement et non testé sur les animaux. Ventes d’ingrédients naturels
+                          et bio (Argiles, huiles végétales, huiles essentielles, hydrolats…).</p>
+                        <figure><img src="http://www.naturellementsoi.fr/s/img/emotionheader5800462189_1.jpg?1430058070.960px.400px">
+
+                        </figure>
+                        <h3>Premier diagnostic de peau offert</h3>
+<p class="descriptionAteliers"><strong>1 produit offert</strong> pour la personne qui reçoit (huile essentielles...)
+Dès leurs arrivés, les personnes devront signer une décharge concernant les mises en garde
+(hygiènes, précautions, allergies…).Le matériel et les ingrédients sont fournis par mes soins.
+Les personnes repartiront avec leurs produits qu’ils ont eux-mêmes préparé.</p>
+
+<h3>Démaquillage</h3>
+
+<p class="descriptionAteliers">(eau micellaire, tonique biphasé démaquillant HE de mandarine...) 15€/PERS
+                        <figure><img src="http://www.naturellementsoi.fr/s/img/emotionheader5800462189_1.jpg?1430058070.960px.400px">
+
+                        </figure>
+<h3>Gommages et Masques</h3>
+<p class="descriptionAteliers">Gommages :<br><br>
+Pate d’argile exfoliante à la poudre de noyau d’olive (visage) 80 ml
+«Gommage de printemps»<br>
+Pate d’argile exfoliante He de tea tree(visage) 50 ml
+«Peau neuve» pate d’argile exfoliante et détoxifiante (corps) 50 ml…<br><br>
+Masque :<br><br>Terreux « Bonne mine » argile rouge et HE/Argan (visage) (50 ml)<br>
+Masque purifiant & décongestionnant argile, Rhassoul et HE de bois de rose (50 ml)…<br>
+En gel « à l’hydrolat de rose… » 20€/PERS
+</p>
+                        <figure><img src="http://www.naturellementsoi.fr/s/img/emotionheader5800462189_1.jpg?1430058070.960px.400px">
+
+                        </figure>
+
+
+
+<h3>Crêmes hydratantes en fonction du types de peau</h3>
+<p class="descriptionAteliers">Visage, mains et pieds, corps… à froid ou à chaud.
+
+  20€/PERS
+</p>
+
+                        <figure><img src="http://www.naturellementsoi.fr/s/img/emotionheader5800462189_1.jpg?1430058070.960px.400px">
+
+                        </figure>
+
+
+<h3>Huiles de beauté</h3>
+<p class="descriptionAteliers">Spécial rentrée : <br><br>
+Huile-anti poux (à partir de 8 ans avec HE).100% NATURELLE ET BIO<br>
+Huile illuminatrice régénérante et relaxante argan/mandarine.<br>
+Huile illuminatrice abricot, amande douce, romarin (corps).<br><br>
+Spécial saint valentin : <br><br>Huile de massage « Tentations et caprices ».<br>
+Huile de beauté Préparation au bronzage à la carotte & illuminatrice avant soleil (corps). <br>
+Huile illuminatrice après-soleil à l’huile de noyau d’abricot.<br>
+Huile de bain précieuse au miel… 15€/PERS
+</p>
+                        <figure><img src="http://www.naturellementsoi.fr/s/img/emotionheader5800462189_1.jpg?1430058070.960px.400px">
+
+                        </figure>
+<h3>Maquillages</h3>
+<p class="descriptionAteliers">Gloss, eye-liner… 15€/PERS
+</p>
+                        <figure><img src="http://www.naturellementsoi.fr/s/img/emotionheader5800462189_1.jpg?1430058070.960px.400px">
+
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<footer>
+                 <section id="contact">
+
+             <h2 class="section-header">Contactez-moi</h2>
+
+             <div class="contact-wrapper">
+
+                 <!----------------
+
+                 CONTACT PAGE LEFT
+
+                 ----------------->
+
+               <form class="form-horizontal" role="form" method="post" action="contact.php">
+
+               <!--<div class="container">-->
+
+                 <div class="form-group">
+                   <div class="col-sm-12"> <!-- replaced col-sm-8 -->
+                     <input type="name" class="form-control" id="inputNAME3" placeholder="NOM Prénom" name="name">
+                   </div>
+                 </div>
+
+                 <div class="form-group">
+                   <div class="col-sm-12"> <!-- replaced col-sm-8 -->
+                     <input type="email" class="form-control" id="inputEMAIL3" placeholder="Email" name="email">
+                   </div>
+                 </div>
+
+                 <textarea class="form-control" rows="10" placeholder="Votre message"  name="message"></textarea>
+
+                 <button class="btn btn-primary send-button" type="submit" value="Envoyer">
+
+                   <div class="button">
+
+                     <i class="fa fa-paper-plane"></i><span class="send-text">Envoyer</span>
+
+                   </div>
+
+                 </button>
+
+               <!--</div>-->
+
+               </form>
+
+                 <!----------------
+
+                 CONTACT PAGE RIGHT
+
+                 ----------------->
+
+                 <div class="direct-contact-container">
+
+                   <ul class="contact-list">
+                     <li class="list-item"><i class="fa fa-map-marker fa-2x"><span class="contact-text place">LUNEL</span></i></li>
+
+                     <li class="list-item"><i class="fa fa-phone fa-2x"><span class="contact-text phone"><a href="tel:06 50 53 32 45" title="Give me a call">06 50 53 32 45</a></span></i></li>
+
+                     <li class="list-item"><i class="fa fa-envelope fa-2x"><span class="contact-text gmail"><a href="mailto:stephanie.bio@free.fr" title="Send me an email">stephanie.bio@free.fr</a></span></i></li>
+
+                   </ul>
+
+                   <hr>
+
+                   <ul class="social-media-icons-list">
+
+                     <li><a href="https://www.facebook.com/St%C3%A9phanie-B-1572790569607022/?fref=ts" target="_blank" class="social-media-icon facebook"><img src="../assets/img/facebook.png" height="60px" width="60px" alt="Facebook"></a></li>
+
+                     <li><a href="#" target="_blank" class="social-media-icon instagram"><img src="../assets/img/instagram.png" height="60px" width="60px" alt="Instagram"></a></li>
+
+                   </ul>
+
+                   <hr>
+
+                   <div class="copyright">&copy; 2016 Stéphanie Bio</div>
+
+                 </div>
+
+             </div>
+
+           </section>
+
+
+        </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="./assets/js/smoothscroll.js"></script>
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
